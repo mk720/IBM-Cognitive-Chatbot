@@ -9,7 +9,7 @@ applications:
   domain: mybluemix.net
   host: plus1think
   services:
-    - cognitive-chatbot-p1t-tone-analy-1512440010056
-    - cognitive-chatbot-p1t-natural-la-1512440010059
-    - cognitive-chatbot-p1t-conversati-1512440010058
-    - cognitive-chatbot-p1t-discovery-1512440010052
+    - cognitive-chatbot-p1t-tone-analy
+    - cognitive-chatbot-p1t-natural-la
+    - cognitive-chatbot-p1t-conversati
+    - cognitive-chatbot-p1t-discovery
